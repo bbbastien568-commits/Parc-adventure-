@@ -1,0 +1,24 @@
+{
+  "name": "Park Checklist",
+  "short_name": "Park Checklist",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101217",
+  "theme_color": "#5b6cff",
+  "description": "Checklist personnelle des parcs d'attractions.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
